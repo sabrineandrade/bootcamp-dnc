@@ -262,6 +262,13 @@ footer .linha2 a:hover {
     height: 50px;
   }
 
+  /*HEADER*/
+  header .invert {
+    background-color: black;
+    font-weight: bold;
+    padding: 1px;
+  }
+
   /*SECTION*/
 
   section h1 {
