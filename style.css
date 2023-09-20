@@ -282,4 +282,23 @@ footer .linha2 a:hover {
   .checkbox-itens label {
     font-size: 17px;
   }
+
+  /*FOOTER*/
+  footer .linha1 {
+    flex-direction: column;
+    margin: 0px 0px 0px 0px;
+  }
+
+  footer .linha2 a {
+    font-size: 15px;
+  }
+
+  footer .linha2 a:first-child {
+    border-right: 2px solid white;
+  }
+
+  footer .endereço {
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
 }
